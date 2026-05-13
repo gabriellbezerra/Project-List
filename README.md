@@ -5,6 +5,8 @@ A página de projetos está dividida conforme a área correlata de cada projeto.
 
 1. [Exemplo de projeto](#exemplo)
 
+---
+
 ## 📐 <a href="https://github.com/gabriellbezerra">Exemplo</a>
 <a href="https://en.wikipedia.org/wiki/Markdown"><img src="https://shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white&style=flat" alt="MARKDOWN"></a>
 <p>Descrição de um exemplo de projeto.</p>
